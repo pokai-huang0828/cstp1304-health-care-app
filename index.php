@@ -12,7 +12,7 @@ Page::header("Health Care App","css/page.css");
 
      <div class="col-12 col-sm-6 offset-sm-3 align-self-start">
           <div class="px-4">
-               <?php Form::signInForm() ?>
+               <?php Form::signInForm() ?> 
           </div>
      </div>
 
