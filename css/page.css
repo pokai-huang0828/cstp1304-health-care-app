@@ -1,0 +1,12 @@
+html, body {
+    font-family: 'Titillium Web', sans-serif;
+    background: rgb(251,251,251);
+    font-size: 0.9em;
+    margin:0;
+    padding:0;
+}
+
+/* btn */
+.btn {
+    color:white;
+}
