@@ -6,7 +6,7 @@ Page::header("Health Care App","css/page.css");
 <div class="row p-4">
      <nav class="navbar navbar-light bg-light">
           <div class="container-fluid">
-          <a class="bi bi-door-open" style="font-size:40px; color:black" href="loginPage.php"></a>
+          <a class="bi bi-door-open" style="font-size:40px; color:black" href="index.php"></a>
                <form class="d-flex">
                     <a class="bi bi-chat-dots" style="font-size:40px; color:black" href="messageList.php"></a>
                </form>
