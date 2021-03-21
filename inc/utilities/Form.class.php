@@ -39,7 +39,7 @@ class Form
             <?php Form::basicInfo()?>
             <hr>
             <a href="mainPage.php"><button type="button" class="btn btn-danger w-100 btn-lg my-2">Sign Up</button></a>
-            <a href="LoginPage.php"><button type="button" class="btn btn-danger w-100 btn-lg my-2">Already have an account?</button></a>
+            <a href="index.php"><button type="button" class="btn btn-danger w-100 btn-lg my-2">Already have an account?</button></a>
         </form>
     <?php }
 
